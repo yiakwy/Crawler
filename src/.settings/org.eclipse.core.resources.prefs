@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//DBManagement/models.py=utf-8
+encoding//core/crawler.py=utf-8
+encoding//framework/event/Event.py=utf-8
+encoding//framework/webkit.py=utf-8
+encoding//tests/automate.py=utf-8
+encoding//tests/crawler.py=utf-8
